@@ -1,0 +1,161 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.csproj": {}
+  },
+  "projects": {
+    "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj",
+        "projectName": "FoodDeliveryDemo.Application",
+        "projectPath": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj",
+        "packagesPath": "C:\\Users\\Sahil\\.nuget\\packages\\",
+        "outputPath": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sahil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.csproj",
+        "projectName": "FoodDeliveryDemo",
+        "projectPath": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.csproj",
+        "packagesPath": "C:\\Users\\Sahil\\.nuget\\packages\\",
+        "outputPath": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sahil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj": {
+                "projectPath": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

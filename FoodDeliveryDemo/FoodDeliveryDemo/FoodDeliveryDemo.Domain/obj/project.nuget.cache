@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "86uWAd81Mwi2Ul69D3wIuLZlRLpE/euNQMizDEYLkp0Z4R6jU44B/a+AubrvyQnmnQtAvRFulTMr/N7yBk6i6Q==",
+  "success": true,
+  "projectFilePath": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Domain\\FoodDeliveryDemo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sahil\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Sahil\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Sahil\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\Sahil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
