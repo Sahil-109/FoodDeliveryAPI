@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93591A6D-AA8D-4E17-9449-2F743197FA20}|FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj|c:\\users\\sahil\\onedrive\\documents\\github\\fooddeliveryapi\\fooddeliverydemo\\fooddeliverydemo\\fooddeliverydemo.application\\restaurant\\command\\updaterestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93591A6D-AA8D-4E17-9449-2F743197FA20}|FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj|solutionrelative:fooddeliverydemo.application\\restaurant\\command\\updaterestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93591A6D-AA8D-4E17-9449-2F743197FA20}|FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj|c:\\users\\sahil\\onedrive\\documents\\github\\fooddeliveryapi\\fooddeliverydemo\\fooddeliverydemo\\fooddeliverydemo.application\\restaurant\\query\\getorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93591A6D-AA8D-4E17-9449-2F743197FA20}|FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj|solutionrelative:fooddeliverydemo.application\\restaurant\\query\\getorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4733C7FD-1C11-490A-81B0-7FAB92B5A0F4}|FoodDeliveryDemo\\FoodDeliveryDemo.csproj|c:\\users\\sahil\\onedrive\\documents\\github\\fooddeliveryapi\\fooddeliverydemo\\fooddeliverydemo\\fooddeliverydemo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4733C7FD-1C11-490A-81B0-7FAB92B5A0F4}|FoodDeliveryDemo\\FoodDeliveryDemo.csproj|solutionrelative:fooddeliverydemo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93591A6D-AA8D-4E17-9449-2F743197FA20}|FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj|c:\\users\\sahil\\onedrive\\documents\\github\\fooddeliveryapi\\fooddeliverydemo\\fooddeliverydemo\\fooddeliverydemo.application\\restaurant\\command\\updateorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93591A6D-AA8D-4E17-9449-2F743197FA20}|FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj|solutionrelative:fooddeliverydemo.application\\restaurant\\command\\updateorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4733C7FD-1C11-490A-81B0-7FAB92B5A0F4}|FoodDeliveryDemo\\FoodDeliveryDemo.csproj|c:\\users\\sahil\\onedrive\\documents\\github\\fooddeliveryapi\\fooddeliverydemo\\fooddeliverydemo\\fooddeliverydemo\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4733C7FD-1C11-490A-81B0-7FAB92B5A0F4}|FoodDeliveryDemo\\FoodDeliveryDemo.csproj|solutionrelative:fooddeliverydemo\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateRestaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\Restaurant\\Command\\UpdateRestaurant.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryDemo.Application\\Restaurant\\Command\\UpdateRestaurant.cs",
+              "ToolTip": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\Restaurant\\Command\\UpdateRestaurant.cs",
+              "RelativeToolTip": "FoodDeliveryDemo.Application\\Restaurant\\Command\\UpdateRestaurant.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:27:18.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryDemo\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FoodDeliveryDemo\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwIYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:27:18.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryDemo\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "FoodDeliveryDemo\\Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAuwGIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:27:18.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\Restaurant\\Query\\GetOrders.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryDemo.Application\\Restaurant\\Query\\GetOrders.cs",
+              "ToolTip": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\Restaurant\\Query\\GetOrders.cs",
+              "RelativeToolTip": "FoodDeliveryDemo.Application\\Restaurant\\Query\\GetOrders.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwDUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:27:18.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateOrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\Restaurant\\Command\\UpdateOrderStatus.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryDemo.Application\\Restaurant\\Command\\UpdateOrderStatus.cs",
+              "ToolTip": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\Restaurant\\Command\\UpdateOrderStatus.cs",
+              "RelativeToolTip": "FoodDeliveryDemo.Application\\Restaurant\\Command\\UpdateOrderStatus.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:27:18.193Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

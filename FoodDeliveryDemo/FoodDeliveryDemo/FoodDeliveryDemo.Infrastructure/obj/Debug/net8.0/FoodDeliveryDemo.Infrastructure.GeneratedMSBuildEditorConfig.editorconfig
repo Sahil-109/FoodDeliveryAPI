@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FoodDeliveryDemo.Infrastructure
-build_property.ProjectDir = E:\ASP.NET CORE WEB API\FoodDeliveryDemo\FoodDeliveryDemo.Infrastructure\
+build_property.ProjectDir = C:\Users\Sahil\OneDrive\Documents\GitHub\FoodDeliveryAPI\FoodDeliveryDemo\FoodDeliveryDemo\FoodDeliveryDemo.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -16,4 +16,8 @@
     <ProjectReference Include="..\FoodDeliveryDemo.Application\FoodDeliveryDemo.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Dockerfile\" />
+  </ItemGroup>
+
 </Project>

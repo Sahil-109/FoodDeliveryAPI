@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj": {}
+    "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj": {}
   },
   "projects": {
-    "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj": {
+    "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj",
         "projectName": "FoodDeliveryDemo.Application",
-        "projectPath": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj",
+        "projectPath": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\FoodDeliveryDemo.Application.csproj",
         "packagesPath": "C:\\Users\\Sahil\\.nuget\\packages\\",
-        "outputPath": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\obj\\",
+        "outputPath": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sahil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -77,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -144,11 +144,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Domain\\FoodDeliveryDemo.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Domain\\FoodDeliveryDemo.Domain.csproj",
       "projectName": "FoodDeliveryDemo.Domain",
-      "projectPath": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Domain\\FoodDeliveryDemo.Domain.csproj",
+      "projectPath": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Domain\\FoodDeliveryDemo.Domain.csproj",
       "packagesPath": "C:\\Users\\Sahil\\.nuget\\packages\\",
-      "outputPath": "E:\\ASP.NET CORE WEB API\\FoodDeliveryDemo\\FoodDeliveryDemo.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Sahil\\OneDrive\\Documents\\GitHub\\FoodDeliveryAPI\\FoodDeliveryDemo\\FoodDeliveryDemo\\FoodDeliveryDemo.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sahil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,6 +171,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -202,7 +207,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
